@@ -3,12 +3,12 @@
 	background-color: lightpink;
 	color: hotpink;
 	text-decoration: none;
-	font-family:'Open Sans', sans-serif;
+	font-family:'Lucida', sans-serif;
 }
 
 #gretchenista-box {
 	width: 400px;
-	height: 400px;
+	height: 800px;
 	margin: 50px auto auto auto;
 	background-color: gray;
 	padding: 50px;
@@ -16,18 +16,18 @@
 }
 
 .gretchenista-advice a {
-	font-size: 12px;
+	font-size: 16px;
 	text-decoration: none;
 	color: purple;
-	font-family:'Open Sans', sans-serif;
+	font-family:'Georgia', sans-serif;
 	}
 
 .gretchenista-advice p {
-	font-size: 12px;
+	font-size: 16px;
 	}
 
 .gretchenista-advice h1 {
-	font-size: 16x;
+	font-size: 24x;
 	}
 
 .gretchenista-advice .advice h4 {
@@ -39,7 +39,7 @@
 	}
 
 .gretchenista-advice .advice p {
-	font-size: 14px;
+	font-size: 16px;
 	text-align: justify;
 	}
 
